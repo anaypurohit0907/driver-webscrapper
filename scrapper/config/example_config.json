@@ -1,0 +1,26 @@
+{
+    "target_urls": [
+        "https://www.nvidia.com/en-us/drivers/details/250998/"
+    ],
+    "allowed_extensions": [
+        ".inf", ".sys", ".cat", ".cab", ".zip", ".deb", ".rpm", ".exe", ".msi", ".dmg"
+    ],
+    "headers": {
+        "Host": "us.download.nvidia.com",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Sec-GPC": "1",
+        "Connection": "keep-alive",
+        "Referer": "https://www.nvidia.com/",
+        "Cookie": "OptanonConsent=isGpcEnabled=1&datestamp=Sun+Aug+10+2025+08%3A01%3A31+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=bb2eb1f5-7545-4025-814d-3a06e92a2915&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&intType=6&geolocation=IN%3BTN&AwaitingReconsent=false; OptanonAlertBoxClosed=2025-08-07T14:21:33.847Z; bm_sv=C2AAA54DAAC8086C29CBAF6A314CCAE0~YAAQTJUjF9nSdViYAQAADYXRkRyYadmv6wpinKfg2XwUgwBmNCXvRA8jSRCyVUYGK5f+7qfQFuebiU/Iy5JI2jQnYum5oA0OmKJ/inf51Dor6eDgrceGnkueurvpElKT/KmlheJZgNua2be9q2G3dqu2XO3FDyebLuT2EsH8ddel+ZE3q8ey1npa0oAIBTtlG3NF34/oFcjnWvVXcp+8HABU9brTgLZ4AgS8c0VrKLMmrYEczSVYSxAoUBXw7GJT~1; bm_mi=45133F0796B128E2CED9FA61A45A30E5~YAAQTJUjF+HSdViYAQAATYfRkRyTWgruc2anQcDBDBZaTDWxAoB1GxfYJ3wuFHQtLQVBKtSKuLfnBR9k9GUJvqVaaKHfFeXX3k/gN4OIgG/6syrsDXmmAM7qFvFmMbbRhPXq8ZK/V8S7T3NR3R/nWquVB51R3fgR3EvjCOJBBZxOHiZ8Ve/8jh7pjFpiTmNNjYruZJ1K+iHTuRHjNUC7kdhzhhy+N90mqsMj65VlJKXTik3f9nbWp2Y5mgGC7d+8m3wsT9KS/WIk42U0d60xuVsF8p54TyDHTviK4iin3uH8osdiWs65NHzUmeTLQKj0RhbX+1jyiBKhVcJTAdJ5TxfRwZMs+smrxcNn5Nfd00a6~1",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-site",
+        "Sec-Fetch-User": "?1",
+        "Priority": "u=0, i",
+        "TE": "trailers"
+    }
+}

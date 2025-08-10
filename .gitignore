@@ -1,0 +1,14 @@
+# Ignore the downloads directory
+downloads/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore logs
+*.log
