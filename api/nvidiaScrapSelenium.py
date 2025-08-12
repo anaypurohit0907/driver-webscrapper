@@ -35,3 +35,4 @@ for driver_id in range(start_id, end_id + 1):
         print(f"[ERROR] {driver_id} - {e}")
 
 driver.quit()
+
