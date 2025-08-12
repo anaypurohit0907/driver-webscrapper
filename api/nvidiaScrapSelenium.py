@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, WebDriverException
 import time
 
+
 start_id = 11
 end_id = 252782
 base_url = "https://www.nvidia.com/en-us/drivers/details/{}/"
@@ -35,4 +36,5 @@ for driver_id in range(start_id, end_id + 1):
         print(f"[ERROR] {driver_id} - {e}")
 
 driver.quit()
+
 
